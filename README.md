@@ -49,21 +49,24 @@
 <div align="center">
 
 <a href="https://github.com/elvanakln">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=elvanakln&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a29bfe&icon_color=6c5ce7&text_color=c9d1d9" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=elvanakln&theme=midnight_purple" />
 </a>
 <a href="https://github.com/elvanakln">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elvanakln&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a29bfe&text_color=c9d1d9" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=elvanakln&theme=midnight_purple" />
 </a>
 
-<br/><br/>
+<br/>
 
 <a href="https://github.com/elvanakln">
-  <img src="https://streak-stats.demolab.com?user=elvanakln&theme=midnight-purple&hide_border=true&background=0D1117&ring=6c5ce7&fire=a29bfe&currStreakLabel=a29bfe&sideLabels=a29bfe&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=elvanakln&theme=midnight_purple&utcOffset=3" />
+</a>
+<a href="https://github.com/elvanakln">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=elvanakln&theme=midnight_purple" />
 </a>
 
-<br/><br/>
+<br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=elvanakln&bg_color=0d1117&color=a29bfe&line=6c5ce7&point=a29bfe&area=true&area_color=6c5ce7&hide_border=true" width="95%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=elvanakln&theme=midnight_purple" width="95%" />
 
 </div>
 
