@@ -1,14 +1,12 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6c5ce7,100:a29bfe&height=200&section=header&text=&fontSize=0" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6c5ce7,100:a29bfe&height=200&section=header&text=Elvan%20Akalin&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Creative%20Coder&descSize=18&descAlignY=55&descColor=e0d4ff" />
 
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6C5CE7&center=true&vCenter=true&random=false&width=600&lines=Hey+there!+I'm+Elvan+Akalin+%F0%9F%91%8B;Full+Stack+Developer;Creative+Coder+%26+UI+Enthusiast;Building+the+Web%2C+One+Pixel+at+a+Time" alt="Typing SVG" /></a>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=4000&pause=1000&color=6C5CE7&center=true&vCenter=true&random=false&width=600&lines=Building+the+Web%2C+One+Pixel+at+a+Time;Passionate+about+Animations+%26+3D+Web;Clean+Code+%7C+Modern+UI%2FUX;Always+Learning%2C+Always+Building" alt="Typing SVG" /></a>
 
 </div>
+
+<br/>
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About Me
 
@@ -50,26 +48,22 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=elvanakln&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a29bfe&icon_color=6c5ce7&text_color=c9d1d9" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=elvanakln&theme=midnight-purple&hide_border=true&background=0D1117&ring=6c5ce7&fire=a29bfe&currStreakLabel=a29bfe&sideLabels=a29bfe&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555" />
+<a href="https://github.com/elvanakln">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=elvanakln&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a29bfe&icon_color=6c5ce7&text_color=c9d1d9" />
+</a>
+<a href="https://github.com/elvanakln">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elvanakln&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a29bfe&text_color=c9d1d9" />
+</a>
 
 <br/><br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elvanakln&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=a29bfe&text_color=c9d1d9" />
+<a href="https://github.com/elvanakln">
+  <img src="https://streak-stats.demolab.com?user=elvanakln&theme=midnight-purple&hide_border=true&background=0D1117&ring=6c5ce7&fire=a29bfe&currStreakLabel=a29bfe&sideLabels=a29bfe&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555" />
+</a>
 
-</div>
+<br/><br/>
 
-<br/>
-
-## 🐍 Contribution Graph
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elvanakln/elvanakln/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/elvanakln/elvanakln/output/github-snake.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/elvanakln/elvanakln/output/github-snake-dark.svg" />
-</picture>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=elvanakln&bg_color=0d1117&color=a29bfe&line=6c5ce7&point=a29bfe&area=true&area_color=6c5ce7&hide_border=true" width="95%" />
 
 </div>
 
