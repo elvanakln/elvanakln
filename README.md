@@ -52,16 +52,7 @@
   <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=elvanakln&theme=midnight_purple" />
 </a>
 <a href="https://github.com/elvanakln">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=elvanakln&theme=midnight_purple" />
-</a>
-
-<br/>
-
-<a href="https://github.com/elvanakln">
   <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=elvanakln&theme=midnight_purple&utcOffset=3" />
-</a>
-<a href="https://github.com/elvanakln">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=elvanakln&theme=midnight_purple" />
 </a>
 
 <br/>
